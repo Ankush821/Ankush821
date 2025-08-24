@@ -1,3 +1,17 @@
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>Hi, I'm Ankush Raut 👋</h1>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0078FF&center=false&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Computer+Engineering+Student;Java+as+Primary+Language;Frontend+%26+Web+Development+in+Java" alt="Typing SVG" />
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://camo.githubusercontent.com/aadba85a634655f7bbdb61f2bfb3842fcb9f652ae61b36d738c1e35ecc11975c/68747470733a2f2f692e706f7374696d672e63632f6d6b794d507256372f6d6172696f2d776f726b696e672e676966" alt="Coding animation" width="300">
+    </td>
+  </tr>
+</table>
+
 <!-- Technical Background Header -->
 <p align="center">
   <img src="https://i.imgur.com/4ASafy0.png" alt="Header" width="100%" />
@@ -63,4 +77,4 @@ My goal is to **create impactful AI solutions that address real-world challenges
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ankush821&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Ankush821&color=blue)
