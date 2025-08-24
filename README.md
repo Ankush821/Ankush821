@@ -12,11 +12,6 @@
   </tr>
 </table>
 
-<!-- Technical Background Header -->
-<p align="center">
-  <img src="https://i.imgur.com/4ASafy0.png" alt="Header" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi there, Welcome to my Profile! 🌟</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Computer+Engineering+Student;Building+Next-Gen+AI+Solutions;Frontend+%26+Web+Development+in+Java" alt="Typing SVG" />
@@ -78,3 +73,4 @@ My goal is to **create impactful AI solutions that address real-world challenges
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ankush821&color=blue)
+
