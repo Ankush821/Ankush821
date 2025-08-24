@@ -7,10 +7,27 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://camo.githubusercontent.com/aadba85a634655f7bbdb61f2bfb3842fcb9f652ae61b36d738c1e35ecc11975c/68747470733a2f2f692e706f7374696d672e63632f6d6b794d507256372f6d6172696f2d776f726b696e672e676966" alt="Coding animation" width="300">
+      <!-- GIF moved down as requested -->
     </td>
   </tr>
 </table>
+
+<!-- Centered Header & Typing SVG -->
+<p align="center">
+  <img src="https://i.imgur.com/4ASafy0.png" alt="Header" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi there, Welcome to my Profile! 🌟</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Computer+Engineering+Student;Building+Next-Gen+AI+Solutions;Frontend+%26+Web+Development+in+Java" alt="Typing SVG" />
+</p>
+
+<!-- GIF placed below the welcome section -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/aadba85a634655f7bbdb61f2bfb3842fcb9f652ae61b36d738c1e35ecc11975c/68747470733a2f2f692e706f7374696d672e63632f6d6b794d507256372f6d6172696f2d776f726b696e672e676966" alt="Coding animation" width="300" />
+</p>
+
+---
 
 <h1 align="center">👋 Hi there, Welcome to my Profile! 🌟</h1>
 <p align="center">
@@ -73,4 +90,5 @@ My goal is to **create impactful AI solutions that address real-world challenges
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ankush821&color=blue)
+
 
